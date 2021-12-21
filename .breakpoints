@@ -3,9 +3,15 @@
     "src/exercise4/ArrayReversal.java": [
       {
         "id": "084f2ecf-bf68-47b0-b8f0-f971c9566311",
+<<<<<<< HEAD
         "line": 34,
         "version": 296,
         "index": 667
+=======
+        "line": 27,
+        "version": 295,
+        "index": 574
+>>>>>>> d8285567a00723de6eae785be9fa3aeeffee4c74
       }
     ]
   }
